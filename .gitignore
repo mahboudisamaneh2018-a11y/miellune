@@ -1,0 +1,6 @@
+node_modules
+dist
+.vercel
+# fichiers de travail (images IA originales, archives) — gardés sur D:, pas dans Git
+assets/
+*.tar
